@@ -61,10 +61,10 @@ This project involves creating an **interactive Tableau dashboard** to analyze f
 ---
 
 ## 🙏 Acknowledgments
-- 📁 **Dataset Source**: [Add dataset source link here].
+- 📁 **Dataset Source**: kaggle.com.
 - 🛠️ **Tools Used**: Tableau, Python/Excel for data preparation.
 
 ---
 
 ## 📧 Contact
-For questions or feedback, please reach out via [Your Email or GitHub Profile Link].
+For questions or feedback, please reach out via https://github.com/Naresh-0007.
